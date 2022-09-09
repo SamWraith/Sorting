@@ -33,7 +33,7 @@ public class NewSort
 		System.out.println();
 	}
 
-	// Driver code to test above
+	
 	public static void main(String args[])
 	{
 		NewSort ob = new NewSort();
