@@ -24,7 +24,7 @@ public class NewSort
 		}
 	}
 
-	// Prints the array
+
 	void printArray(int arr[])
 	{
 		int n = arr.length;
